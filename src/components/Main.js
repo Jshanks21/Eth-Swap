@@ -58,12 +58,23 @@ class Main extends Component {
 				</div>
 				<div className="alert alert-warning">
 					<strong className="d-flex justify-content-center">Live only on the Ropsten testnet.</strong>
-					<span className="d-flex justify-content-center">Get your test Ether<a href="https://faucet.metamask.io/" target="_blank">&nbsp;here.</a></span>
+					<span
+						className="d-flex justify-content-center"
+						>
+						Get your test Ether
+						<a href="https://faucet.metamask.io/"
+							target="_blank"
+							rel="noopener noreferrer"
+							>
+							&nbsp;here.
+						</a>
+					</span>
 				</div>
 				<div className="alert alert-info">
   				<strong className="d-flex justify-content-center">SWP token is live on Ropsten at: </strong>
 					<a href="https://ropsten.etherscan.io/address/0xa93f25a89fee39dcc0273ba55c3c7d0092d7dc69"
 						target="_blank"
+						rel="noopener noreferrer"
 						className="d-flex justify-content-center">
 							0xa93f25A89FEE39dCc0273BA55C3c7D0092D7dc69
 					</a>
