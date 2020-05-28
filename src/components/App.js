@@ -40,7 +40,7 @@ class App extends Component {
       const ethSwap = new web3.eth.Contract(EthSwap.abi, ethSwapData.address)
       this.setState({ ethSwap })
     } else {
-      window.alert('EthSwap contract not deployed to detected network!')
+      window.alert('EthSwap contract not deployed to detected network! Please switch to the Ropsten test network.')
     }
 
     this.setState({ loading: false })
