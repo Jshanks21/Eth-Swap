@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "68859b02086330a7e19c",
+    "revision": "d67ba8caacc0a909baf3",
     "url": "/Eth-Swap/static/css/main.31e39c46.chunk.css"
   },
   {
-    "revision": "68859b02086330a7e19c",
-    "url": "/Eth-Swap/static/js/main.68859b02.chunk.js"
+    "revision": "d67ba8caacc0a909baf3",
+    "url": "/Eth-Swap/static/js/main.d67ba8ca.chunk.js"
   },
   {
     "revision": "836a7c9f6f764e629871",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Eth-Swap/static/media/ethswap-logo.a88ef79b.jpg"
   },
   {
-    "revision": "8c614b5d94186632fb3e76aa56a08aee",
+    "revision": "3eaf524cc2393f6ef921e2ee96906b0c",
     "url": "/Eth-Swap/index.html"
   }
 ];
