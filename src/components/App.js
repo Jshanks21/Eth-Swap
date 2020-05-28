@@ -31,7 +31,7 @@ class App extends Component {
       let tokenBalance = await token.methods.balanceOf(this.state.account).call()
       this.setState({ tokenBalance: tokenBalance.toString() })
     } else {
-      window.alert('Token contract not deployed to detected network!')
+      window.alert('Token contract not deployed to detected network! Please switch to the Ropsten test network.')
     }
 
     // Load EthSwap
