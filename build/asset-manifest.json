@@ -1,16 +1,16 @@
 {
   "main.css": "/Eth-Swap/static/css/main.31e39c46.chunk.css",
-  "main.js": "/Eth-Swap/static/js/main.68859b02.chunk.js",
-  "main.js.map": "/Eth-Swap/static/js/main.68859b02.chunk.js.map",
+  "main.js": "/Eth-Swap/static/js/main.d67ba8ca.chunk.js",
+  "main.js.map": "/Eth-Swap/static/js/main.d67ba8ca.chunk.js.map",
   "static/css/1.63d8b266.chunk.css": "/Eth-Swap/static/css/1.63d8b266.chunk.css",
   "static/js/1.836a7c9f.chunk.js": "/Eth-Swap/static/js/1.836a7c9f.chunk.js",
   "static/js/1.836a7c9f.chunk.js.map": "/Eth-Swap/static/js/1.836a7c9f.chunk.js.map",
   "runtime~main.js": "/Eth-Swap/static/js/runtime~main.206fccf9.js",
   "runtime~main.js.map": "/Eth-Swap/static/js/runtime~main.206fccf9.js.map",
   "static/media/ethswap-logo.jpg": "/Eth-Swap/static/media/ethswap-logo.a88ef79b.jpg",
-  "static/css/1.63d8b266.chunk.css.map": "/Eth-Swap/static/css/1.63d8b266.chunk.css.map",
   "static/css/main.31e39c46.chunk.css.map": "/Eth-Swap/static/css/main.31e39c46.chunk.css.map",
+  "static/css/1.63d8b266.chunk.css.map": "/Eth-Swap/static/css/1.63d8b266.chunk.css.map",
   "index.html": "/Eth-Swap/index.html",
-  "precache-manifest.6def4f03d29e1a290cb5bdc77bac3e9d.js": "/Eth-Swap/precache-manifest.6def4f03d29e1a290cb5bdc77bac3e9d.js",
+  "precache-manifest.490616c7e224da35f770bd8aa9e25703.js": "/Eth-Swap/precache-manifest.490616c7e224da35f770bd8aa9e25703.js",
   "service-worker.js": "/Eth-Swap/service-worker.js"
 }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Identicon from 'identicon.js';
 
-class Navbar extends Component {
+class Navbar extends Component { 
 
   render() {
     return (
